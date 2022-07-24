@@ -2,8 +2,8 @@
 * Name: Khusan Rashidov
 * Student ID: U2010224
 * Programs: 1. Write a program to generate Pascal's triangle.
-*	    2. Operation with matrices.
-*	    3. Table.
+*	   	    2. Operation with matrices.
+*		    3. Table.
 */
 #include<iostream>
 using namespace std;
